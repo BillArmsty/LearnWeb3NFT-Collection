@@ -1,5 +1,5 @@
 // Address of the Whitelist Contract that you deployed
-const WHITELIST_CONTRACT_ADDRESS = "0x51D476645E175aFeCAa2bb2f32B6A0f4788b5d5B";
+const WHITELIST_CONTRACT_ADDRESS = "0xc0DdB87d47DB22Ff2ac263c47576026c4a41AC3a";
 // URL to extract Metadata for a Crypto Dev NFT
 const METADATA_URL = "https://nft-collection-ochre-chi.vercel.app/api/";
 
